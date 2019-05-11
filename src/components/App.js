@@ -22,7 +22,7 @@ class App extends React.Component  {
 		});
 	};
 		
-	};
+
 
 
 render () {
@@ -41,7 +41,9 @@ render () {
 		</div>
 		</div>
 
-);
+     );
+};
+
 }
-}
+
 export default App;
